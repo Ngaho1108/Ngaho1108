@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngaho1108
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on any interesting projects :)
+- 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 How to reach me Ngaho2001@gmail.com
 
 <!---
